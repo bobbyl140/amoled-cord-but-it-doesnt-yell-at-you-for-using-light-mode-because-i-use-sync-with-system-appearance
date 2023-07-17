@@ -11,7 +11,7 @@
 2. Go to the "Vencord" category and select the "Themes" tab.
 3. In the input field under "THEMES" paste the following URL.
 ```
-https://github.com/bobbyl140/amoled-cord-but-it-doesnt-yell-at-you-for-using-light-mode-because-i-use-sync-with-system-appearance/raw/main/src/amoled-cord.css
+https://raw.githubusercontent.com/bobbyl140/amoled-cord-but-it-doesnt-yell-at-you-for-using-light-mode-because-i-use-sync-with-system-appearance/main/src/amoled-cord.css
 ```
 
 ### ![stylus](https://discord-extensions.github.io/assets/icons/stylus.png) **Stylus**
