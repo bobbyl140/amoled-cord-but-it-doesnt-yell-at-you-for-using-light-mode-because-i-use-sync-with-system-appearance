@@ -1,3 +1,10 @@
+/**
+    * @name AMOLED-Cord
+    * @version 1.0
+    * @description A theme that's nice on your eyes.. lights out baby!
+    * @author LuckFire#4800, bobbyl140
+    * @source https://github.com/bobbyl140/amoled-cord-but-it-doesnt-yell-at-you-for-using-light-mode-because-i-use-sync-with-system-appearance/tree/main/src
+**/
 :root {
   /* ignore these, unless you wanna mess with them, then go for it. they may be removed at any time, though. */
   --lightness-600-660: 0%;
